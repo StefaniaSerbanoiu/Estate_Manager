@@ -1,0 +1,21 @@
+[2023-03-20 10:26:57] [info] Start Program:
+Path:"C:\\Users\\anast\\source\\repos\\proiect_to_try_assembling\\Debug\\proiect_to_try_assembling.exe"
+Arguments:
+Working directory: "C:\\Users\\anast\\source\\repos\\proiect_to_try_assembling\\"
+Modules: Selected: C:\Users\anast\source\repos\proiect_to_try_assembling\Debug\proiect_to_try_assembling.exe Excluded: 
+Sources: Selected: C:\Users\anast\source\repos\proiect_to_try_assembling Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\anast\AppData\Local\Temp\ibw1044a.hfl 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-03-20 10:26:58] [info] Module: C:\Users\anast\source\repos\proiect_to_try_assembling\Debug\proiect_to_try_assembling.exe is selected because it matches selected pattern: C:\Users\anast\source\repos\proiect_to_try_assembling\Debug\proiect_to_try_assembling.exe
+[2023-03-20 10:26:59] [info] ----------------------------------------------------
+[2023-03-20 10:26:59] [info] Coverage binary generated in file: C:\Users\anast\AppData\Local\Temp\ibw1044a.hfl
+[2023-03-20 10:26:59] [info] ----------------------------------------------------
